@@ -1,16 +1,22 @@
-### Hi there 👋
+# About me 👋
 
-<!--
-**ryankoul/ryankoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗣️ Feedback from others:
+    - "within the top tier of high quality problem solvers, leaders, and to call him an employee feels like understating his ability"
+    - "very intelligent worker who is proactive, methodical and organized in everything he does. He can adapt to and excel in any work environment."
+- 📝 Past work: [Medium](https://medium.com/@ryan.koul), [Portfolio](https://ryankoul.github.io/).
+- ❤️‍🔥 Passions: Deep learning, regular expressions, economics, clear code
+- 🌐 Languages: Python, SQL
+- 🤹 Skills: 
+    - Collecting data via scraping (BeautifulSoup4) or pulling from APIs
+    - Cleaning data via regular expressions and pandas profiling
+    - Creating and deploying databases via SQL, Heroku, and/or AWS
+    - Analyzing data via numpy & pandas
+    - Visualizing data via matplotlib, seaborn, plotly, and altair
+    - Modeling data via feature selection, scikit-learn, Keras, and TensorFlow
+    - Communicating data to technical or non-technical people
+    - Data Structures & Algorithms, particularly hash maps
+- 🌱 Currently learning: Zsh 🐚 and MySQL
+- 📚 Background: 📈📉 ➡️ 🤖
+- 📫 Contact: 
+    - [Email](ryan.koul@gmail.com)
+    - [LinkedIn](https://www.linkedin.com/in/ryankoul/)
