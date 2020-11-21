@@ -1,11 +1,21 @@
 # About me 👋
-
-- 🗣️ Feedback from others:
-    - "within the top tier of high quality problem solvers, leaders, and to call him an employee feels like understating his ability"
-    - "very intelligent worker who is proactive, methodical and organized in everything he does. He can adapt to and excel in any work environment."
-- 📝 Past work: [Medium](https://medium.com/@ryan.koul), [Portfolio](https://ryankoul.github.io/).
-- ❤️‍🔥 Passions: Deep learning, regular expressions, economics, clear code
-- 🌐 Languages: Python, SQL
+- 👨‍💻 Background:
+    - Graduated with a bachelors in economics and a minor philosophy
+    - I learned to write and do math, but not code, so most economics-y analysis jobs were beyond my skill level
+    - So I dove into data science and engineering and now have familiarity with the whole data pipeline
+    - tl;dr 📜📈📉 ➡️ 🧽🤖📊
+- 📝 Past work:
+    - [Medium](https://medium.com/@ryan.koul)
+    - [Portfolio](https://ryankoul.github.io/).
+- ❤️‍🔥 Passions:
+    - Deep learning
+    - Regular expressions
+    - Algorithms
+    - Economics
+    - Clean(er) code
+- 🌐 Languages:
+    - Python
+    - SQL
 - 🤹 Skills: 
     - Collecting data via scraping (BeautifulSoup4) or pulling from APIs
     - Cleaning data via regular expressions and pandas profiling
@@ -15,8 +25,13 @@
     - Modeling data via feature selection, scikit-learn, Keras, and TensorFlow
     - Communicating data to technical or non-technical people
     - Data Structures & Algorithms, particularly hash maps
-- 🌱 Currently learning: Zsh 🐚 and MySQL
-- 📚 Background: 📈📉 ➡️ 🤖
+- 🌱 Currently learning:
+    - Zsh 🐚
+    - MySQL
+- 🗣️ Feedback from others:
+    - "within the top tier of high quality problem solvers, leaders, and to call him an employee feels like understating his ability"
+    - "best quality is his go git it attitude. He's not afraid to take risks."
+    - "very intelligent worker who is proactive, methodical and organized in everything he does. He can adapt to and excel in any work environment."
 - 📫 Contact: 
     - [Email](ryan.koul@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/ryankoul/)
