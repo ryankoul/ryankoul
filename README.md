@@ -1,8 +1,8 @@
 # About me 👋
 - 👨‍💻 Background:
-    - Graduated with a bachelors in economics and a minor philosophy
-    - I learned to write and do math, but not code, so most economics-y analysis jobs were beyond my skill level
-    - So I dove into data science and engineering and now have familiarity with the whole data pipeline
+    - I studied economics and philosophy in college
+    - I learned how to write and do math, but not code. Most economics-y analysis jobs were beyond my skill level
+    - So I dove into data science and engineering to upskill, and now have familiarity with the whole data pipeline
     - tl;dr 📜📈📉 ➡️ 🧽🤖📊
 - 📝 Past work:
     - [Medium](https://medium.com/@ryan.koul)
