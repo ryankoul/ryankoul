@@ -6,7 +6,7 @@
     - tl;dr 📜📈📉 ➡️ 🧽🤖📊
 - 📝 Past work:
     - [Medium](https://medium.com/@ryan.koul)
-    - [Portfolio](https://ryankoul.github.io/).
+    - [Portfolio](https://ryankoul.github.io/)
 - ❤️‍🔥 Passions:
     - Deep learning
     - Regular expressions
