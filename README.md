@@ -1,7 +1,7 @@
 # About me 👋
 - 👨‍💻 Background:
     - I studied economics and philosophy in college
-    - I learned how to write and do math, but not code. Most economics-y analysis jobs were beyond my skill level
+    - While there I learned how to write and do math, but not code. Most economics-y analysis jobs were beyond my skill level
     - So I dove into data science and engineering to upskill, and now have familiarity with the whole data pipeline
     - tl;dr 📜📈📉 ➡️ 🧽🤖📊
 - 📝 Past work:
@@ -18,11 +18,11 @@
     - SQL
 - 🤹 Skills: 
     - Collecting data via scraping (BeautifulSoup4) or pulling from APIs
-    - Cleaning data via regular expressions and pandas profiling
+    - Cleaning data via regular expressions and Pandas Profiling
     - Creating and deploying databases via SQL, Heroku, and/or AWS
-    - Analyzing data via numpy & pandas
-    - Visualizing data via matplotlib, seaborn, plotly, and altair
-    - Modeling data via feature selection, scikit-learn, Keras, and TensorFlow
+    - Analyzing data via Numpy & Pandas
+    - Visualizing data via Matplotlib, Seaborn, Plotly, and Altair
+    - Modeling data via feature selection, Scikit-Learn, Keras, and TensorFlow
     - Communicating data to technical or non-technical people
     - Data Structures & Algorithms, particularly hash maps
 - 🌱 Currently learning:
