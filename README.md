@@ -1,8 +1,3 @@
----
-layout: page
-title: About me 👋
----
-
 - 👨‍💻 **Background**
     - Studied economics 📈 and philosophy 📜 in college
     - While there I learned to write and do math, but not code, so most economics-y jobs were beyond my skill level 📉
