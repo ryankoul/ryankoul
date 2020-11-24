@@ -6,6 +6,7 @@
 📝 **Past work**
 - [Medium](https://ryan-koul.medium.com/)
 - [Linkedin](https://www.linkedin.com/in/ryankoul/)
+- [Portfolio](https://ryankoul.github.io/)
 
 🔥 **Passions**
 - Deep learning
@@ -50,4 +51,3 @@
 📫 **Contact**
 - [Email](mailto:ryan.koul@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ryankoul/)
-- [Portfolio](https://ryankoul.github.io/)
