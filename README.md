@@ -1,12 +1,11 @@
 👨‍💻 **Background**
 - Studied economics 📈 and philosophy 📜 in college
 - While there I learned to write and do math, but not code, so most economics-y jobs were beyond my skill level 📉
-- I dove into data science and engineering to upskill and now have familiarity with the whole data pipeline
+- I dove into data science and engineering to upskill and now have familiarity across the whole data pipeline
 
 📝 **Past work**
 - [Medium](https://ryan-koul.medium.com/)
 - [Linkedin](https://www.linkedin.com/in/ryankoul/)
-- [Portfolio](https://ryankoul.github.io/)
 
 🔥 **Passions**
 - Deep learning
@@ -16,7 +15,8 @@
 
 🌐 **Languages**
 - Python
-- SQL
+- SQL (PostgreSQL, MySQL, SQLite)
+- Bash
 
 🤹 **Skills**
 - 🥣 Collecting data via scraping (BeautifulSoup4) or pulling from APIs
@@ -28,10 +28,6 @@
 - 🤖 Modeling data via feature selection & engineering, Scikit-Learn, Keras, and/or TensorFlow
 - 🗣️ Communicating data to technical and non-technical people
 - 🌲 Data structures & algorithms
-
-🌱 **Currently learning**
-- Zsh
-- MySQL
 
 📚 **Some favorite books**
 - [The Age of Em - Robin Hanson](https://ageofem.com/)
