@@ -1,7 +1,7 @@
 👨‍💻 **Background**
 - Studied economics 📈 and philosophy 📜 in college
 - While there I learned to write and do math, but not code, so most economics-y jobs were beyond my skill level 📉
-- I dove into data science and engineering to upskill and now have familiarity across the whole data pipeline
+- I dove into data science and engineering to upskill and now have familiarity across the data pipeline
 
 📝 **Past work**
 - [Medium](https://ryan-koul.medium.com/)
